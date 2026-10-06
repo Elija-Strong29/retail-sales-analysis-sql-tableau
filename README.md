@@ -29,7 +29,10 @@ Key Findings
 - Most orders were classified as Small, with 10,801 orders under $100.
 
 Tableau Dashboard
+
 An interactive Tableau dashboard was created to visualize the main findings, including revenue, orders, product performance, geographic performance, and sales trends.
+
+[View Interactive Tableau Dashboard](https://public.tableau.com/app/profile/elija.strong/viz/SalesAnalysisDashboardApril2019/Dashboard1)
 
 SQL Analysis
 The complete SQL queries used in this project can be found in the `SQL_Analysis.sql` file in this repository.
