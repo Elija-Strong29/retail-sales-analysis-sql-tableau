@@ -38,4 +38,4 @@ SQL Analysis
 The complete SQL queries used in this project can be found in the `SQL_Analysis.sql` file in this repository.
 Full Project Write-Up
 
-[View Full Project Analysis (PDF)](Project%201%20Retail%20Sales%20Analyst.pdf)
+[View Full Project Analysis (PDF)](Project%201%20Retail%20Sales%20Analysist.pdf)
