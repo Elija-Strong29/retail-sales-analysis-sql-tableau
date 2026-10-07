@@ -35,7 +35,9 @@ An interactive Tableau dashboard was created to visualize the main findings, inc
 [View Interactive Tableau Dashboard](https://public.tableau.com/app/profile/elija.strong/viz/SalesAnalysisDashboardApril2019/Dashboard1)
 
 SQL Analysis
-The complete SQL queries used in this project can be found in the `SQL_Analysis.sql` file in this repository.
+
+The complete SQL queries used in this project can be found here: [View SQL Analysis](SQL_Analysis.sql)
+
 Full Project Write-Up
 
 [View Full Project Analysis (PDF)](Project%201%20Retail%20Sales%20Analysist.pdf)
